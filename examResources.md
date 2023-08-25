@@ -1,7 +1,6 @@
-
 ### Resources
 - The only textbook you needs https://www.amazon.com/gp/product/1119784743
-- ^^^ Use this for 90% of studying. The book is 1200 pages so it will take you weeks to read. Read it multiple times and focus on the core java chapters (1-9)
+- ^^^ Use this book for 90% of your studying. The book is 1200 pages so it will take you weeks to read. Read it multiple times and focus on the core java chapters (1-9)
 - Udemy: Part 1: https://www.udemy.com/course-dashboard-redirect/?course_id=2649928
 - Udemy: Part 2: https://www.udemy.com/course-dashboard-redirect/?course_id=3565019
 - (meh) PluralSight : 26 hours https://www.pluralsight.com/paths/java-se-11-developer-certification-1z0-819

@@ -1,5 +1,5 @@
 # Summary
-- Repo of my used to study for the Java SE 11 Developer - Oracle 1Z0-819 exam
+- Study notes for the Java SE 11 Developer - Oracle 1Z0-819 exam
 - Exam info https://education.oracle.com/java-se-11-developer/pexam_1Z0-819
 
 ### Flashcard set
@@ -15,15 +15,5 @@
 - Skip forLoop questions, takes too long. Come back later
 - Java OOP/Lambda/Operators/ questions can range from easy to difficult.
 - Concurrency/JDBC/Annotations/Modules/IO/NIO/Security questions were all easy difficulty and were more about recognition about Classes/Methods/Exceptions
-
-
-
-
-
-
-
-
-
-
 
 
